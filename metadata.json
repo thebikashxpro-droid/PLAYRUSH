@@ -1,0 +1,6 @@
+{
+  "name": "PlayRush",
+  "description": "Play, earn rewards, and redeem points in PlayRush, featuring quick games, daily missions, and wallet cashout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
